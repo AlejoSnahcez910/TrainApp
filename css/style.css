@@ -495,7 +495,7 @@ header.sticky {
 }
 
 .land-featurearea {
-    background: #1fb6ff none repeat scroll 0 0;
+    background: #333333 none repeat scroll 0 0;
     color: #fff;
     float: left;
     height: 100vh;
@@ -513,7 +513,7 @@ header.sticky {
 }
 
 .land-meta > h1 {
-    font-family: hobo std;
+    font-family: roboto;
 }
 
 .land-meta > p {
