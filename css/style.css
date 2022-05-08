@@ -10068,6 +10068,12 @@ aside.sidebar.full-style {
     display: flex;
 }
 
+.logo_index_mio
+{
+    width: 400px;
+    height: 400px;
+    margin: -50px;
+}
 
 
 
