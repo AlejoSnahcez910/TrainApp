@@ -84,7 +84,7 @@ blockquote,
 .job-detail > ul li i,
 .company-intro > a
 {
-	color: #088dcd;	
+	color: #f24535;	
 }
 svg{
 stroke: #fff;
@@ -147,7 +147,7 @@ button.submit-checkout,
 a.addnewforum,
 .apply-bttons > a
 {
-	background: #088dcd;
+	background: #f24535;
 }
 
 
