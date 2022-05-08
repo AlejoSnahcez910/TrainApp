@@ -10053,5 +10053,21 @@ aside.sidebar.full-style {
     
 }
 
+.feather_icons
+{
+    width: 20px;
+    height: 20px;
+    margin: 0 auto;
+
+}
+
+.feather_icons_menu
+{
+    width: 15px;
+    height: 15px;
+    display: flex;
+}
+
+
 
 
