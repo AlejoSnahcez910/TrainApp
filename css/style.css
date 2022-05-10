@@ -2573,14 +2573,14 @@ footer .logo {
 /*-- widgets ---*/
 
 .sidebar .widget ul.recent-photos li {
-    margin-bottom: 5px;
-    width: 31.8%;
+    margin-bottom: 7px;
+    width: 100%;
 }
 
 .widget ul.recent-photos {
     display: inline-block;
-    padding-bottom: 20px;
-    width: 100%;
+    padding-bottom: 25px;
+    width: 100;
 }
 
 
