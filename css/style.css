@@ -777,7 +777,8 @@ header.sticky {
 
 .feature-photo > figure img {
     display: inline-block;
-    width: 100%;
+    width: 1920px;
+    height: 800px;
 }
 
 .user-avatar {
@@ -902,7 +903,7 @@ header.sticky {
 }
 
 .edit-phto:hover {
-    background: transparent none repeat scroll 0 0;
+    background-color: #f24535;
     border: 1px solid;
     color: #fff;
 }
@@ -1120,8 +1121,9 @@ header.sticky {
 }
 
 .add-btn > a:hover {
-    background: transparent none repeat scroll 0 0;
+    background-color: #333333;
     border: 1px solid;
+    font-style: italic;
 }
 
 .add-btn > a {
