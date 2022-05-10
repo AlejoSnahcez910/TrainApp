@@ -4172,7 +4172,8 @@ a.forgot-pwd {
     padding: 5px 8px;
     position: relative;
     color: #434343;
-    background: rgba(39, 170, 225, 0.1);
+    background: rgba(242, 69, 53, 0.8);
+    color: white;
 }
 
 .peoples-mesg-box > ul > li p::before {
@@ -4182,7 +4183,7 @@ a.forgot-pwd {
 
 .peoples-mesg-box > ul > li p::after {
     top: 6px;
-    border-right-color: rgba(202, 239, 142, .65);
+    border-right-color: rgba(2, 40, 89, .8);
 }
 
 .peoples-mesg-box > ul > li.me p::before {
@@ -4193,11 +4194,12 @@ a.forgot-pwd {
 }
 
 .peoples-mesg-box > ul > li.you p {
-    background: rgba(202, 239, 142, .65);
+    background: rgba(2, 40, 89, .8);
+    color: white;
 }
 
 .peoples-mesg-box > ul > li.me p::after {
-    border-left: 10px solid rgba(39, 170, 225, 0.1);
+    border-left: 10px solid rgba(242, 69, 53, 0.8);
     border-right: initial;
     left: auto;
     right: -10px;
