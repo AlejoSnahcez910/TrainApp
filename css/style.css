@@ -596,7 +596,7 @@ header.sticky {
 
 .log-reg-area .checkbox label,
 .form-radio label {
-    color: #999;
+    color: #333333;
     font-size: 13px;
 }
 
@@ -10054,7 +10054,14 @@ aside.sidebar.full-style {
 
 .signin
 {
-    
+    background-color: rgba(242, 59, 43, .8);
+    border-color: rgba(242, 59, 43, .8);
+}
+
+.signup
+{
+    background-color: rgba(242, 59, 43, .8);
+    border-color: rgba(242, 59, 43, .8);
 }
 
 .feather_icons
@@ -10079,5 +10086,29 @@ aside.sidebar.full-style {
     margin: -50px;
 }
 
+.index_text
+{
+    color: #fff;
 
+}
 
+.check-box::before
+{
+     border-color: #f24535;
+}
+
+.check-box::after
+{
+    background-color: #f24535;
+    border-color: #f24535;
+}
+
+.radio .check-box::after
+{
+    background-color: #f24535;
+}
+
+.i.check-box::before
+{
+    background-color: #f24535;
+}
