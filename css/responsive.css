@@ -71,6 +71,7 @@
     }
     .timeline-info .admin-name > h5 {
         font-size: 20px;
+        color: #fff;
     }
     .sidebar .widget li > a {
         font-size: 14px;
@@ -617,6 +618,7 @@
     }
     .feature-photo > figure {
         margin-bottom: 10px;
+        height: 50px;
     }
     .user-avatar {
         border: medium none;
@@ -1117,11 +1119,14 @@
     .timeline-info > ul li.admin-name {
         left: 190px;
         position: absolute;
-        top: -95px;
+        top: -120px;
     }
     .timeline-info .admin-name > h5 {
-        color: #424242;
+        color: #fff;
         text-shadow: none;
+        margin-left: -35px;
+        margin-top: 20px;
+        margin-top: -200px;
     }
     .liked-pages > li {
         max-width: 48.4%;
@@ -1136,6 +1141,7 @@
     .add-btn {
         top: 70px;
         right: 30px;
+        margin-top: 85px;
     }
     .user-avatar {
         float: left;
@@ -1147,10 +1153,12 @@
         width: 10%;
     }
     .timeline-info .admin-name > span {
-        color: #333;
+        color: #fff;
         display: block;
         line-height: 20px;
         position: unset;
+        margin-left: -35px;
+        
     }
     .list-style > li {
         width: 49%;
@@ -1210,6 +1218,7 @@
     .timeline-info > ul {
         padding-left: 0;
         line-height: initial;
+
     }
     .knowldeg-box {
         margin-bottom: 10px;
@@ -1423,6 +1432,7 @@
     }
     .timeline-info > ul li a {
         margin-right: 20px;
+
     }
     .shop-filter-sec > span {
         width: 100%;
@@ -1743,7 +1753,7 @@
         margin-right: 15px;
     }
     .timeline-info > ul li.admin-name {
-        left: 128px;
+        left: 12px;
         top: -95px;
     }
     .add-btn {
@@ -1754,10 +1764,10 @@
         top: 10px;
     }
     .timeline-info .admin-name > span {
-        color: #333;
+        color: #fff;
     }
     .timeline-info .admin-name > h5 {
-        color: #424242;
+        color: #fff;
         font-size: 20px;
     }
     .comet-avatar {
