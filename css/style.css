@@ -2071,7 +2071,7 @@ footer {
 }
 
 footer::before {
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #2fa7cd 50%, #ffffff 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #f24535 50%, #ffffff 100%) repeat scroll 0 0;
     content: "";
     height: 5px;
     position: absolute;
