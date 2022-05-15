@@ -3551,7 +3551,7 @@ a.add-butn {
 }
 
 .page-likes .tab-content .tab-pane > span i {
-    color: green;
+    color: #f24525;
     font-size: 15px;
     margin-right: 6px;
 }
@@ -3578,7 +3578,7 @@ a.add-butn {
 }
 
 .page-likes .tab-content .tab-pane > a {
-    color: green;
+    color: #f24535;
     float: left;
     font-size: 13px;
     text-align: center;
