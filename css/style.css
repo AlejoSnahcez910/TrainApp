@@ -764,6 +764,8 @@ header.sticky {
 
 .feature-photo .container-fluid {
     padding: 0 43px;
+
+
 }
 
 .feature-photo {
@@ -803,10 +805,12 @@ header.sticky {
 }
 
 .timeline-info {
-    background: #fff none repeat scroll 0 0;
+    background: none repeat scroll 0 0;
+    
     display: block;
     line-height: 59px;
     width: 100%;
+    margin-top: 10px;
 }
 
 .timeline-info > ul {
@@ -822,9 +826,11 @@ header.sticky {
     display: inline-block;
     margin-right: 50px;
     position: relative;
+    margin-top: 5px;
 }
 
 .timeline-info > ul li a {
+    color: #545454;
     display: inline-block;
     font-size: 14px;
     margin-right: 30px;
@@ -833,6 +839,7 @@ header.sticky {
     text-transform: capitalize;
     padding-bottom: 3px;
     font-weight: 400;
+
 }
 
 .timeline-info > ul li a:last-child {
